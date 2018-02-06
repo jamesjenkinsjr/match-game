@@ -1,3 +1,7 @@
 .card-border {
     border: 1rem solid black;
 }
+.card {
+    width: 150px;
+    height: 350px;
+}
